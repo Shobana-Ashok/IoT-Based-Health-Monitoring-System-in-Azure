@@ -30,9 +30,9 @@ def iothub_client_telemetry_sample_run():
             else:
               message.custom_properties["FeverAlert"] = "false"
             if simulated_heartRate > 100:
-              message.custom_properties["CardiaAlert"] = "true"
+              message.custom_properties["CardiacAlert"] = "true"
             else:
-              message.custom_properties["CardiaAlert"] = "false"  
+              message.custom_properties["CardiacAlert"] = "false"  
 
             # Send the message.
             print( "Sending message: {}".format(message) )
