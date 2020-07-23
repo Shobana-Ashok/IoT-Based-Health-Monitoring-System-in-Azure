@@ -9,14 +9,21 @@ The purpose of this project is to monitor vital signs such as heart-rate and tem
 * Iot Hub
 * Stream Analytics Job
 * PowerBI
-* Azure Logic Apps
+* Service Bus Namespace & Queue
+* Custom End-point & Routing Rule in Iot-Hub
+* SendGrid (to send e-mail notifications)
+* Azure Logic Apps with Trigger
 ### Simulated Device Sending Telemetry Values
 ![alt text](https://github.com/Shobana-Ashok/IoT-Based-Health-Monitoring-System-in-Azure/blob/master/Screenshot%20(1660).png?raw=true)
 ### IoT-Hub Events Monitor
 ![alt text](https://github.com/Shobana-Ashok/IoT-Based-Health-Monitoring-System-in-Azure/blob/master/Screenshot%20(1662).png?raw=true)
 ### Generated Report in PowerBI
 ![alt text](https://github.com/Shobana-Ashok/IoT-Based-Health-Monitoring-System-in-Azure/blob/master/Screenshot%20(1659).png?raw=true)
-
-
-
- 
+### ServiceBus Queue
+![alt text](https://github.com/Shobana-Ashok/IoT-Based-Health-Monitoring-System-in-Azure/blob/master/Screenshot%20(1665).png?raw=true)
+### IoT-Hub End-point with Routing Query
+![alt text](https://github.com/Shobana-Ashok/IoT-Based-Health-Monitoring-System-in-Azure/blob/master/Screenshot%20(1666).png?raw=true)
+### Logic App Designer
+![alt text](https://github.com/Shobana-Ashok/IoT-Based-Health-Monitoring-System-in-Azure/blob/master/Screenshot%20(1663).png?raw=true)
+### Logic App Runs History
+![alt text](https://github.com/Shobana-Ashok/IoT-Based-Health-Monitoring-System-in-Azure/blob/master/Screenshot%20(1664).png?raw=true)
